@@ -1,0 +1,6 @@
+# Fichiers compilés
+bin/
+*.class
+
+# Fichiers système macOS
+.DS_Store
